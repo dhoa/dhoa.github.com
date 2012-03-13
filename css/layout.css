@@ -7,7 +7,7 @@
 
 #header
 {
-    background: #ccc;
+    background: #fff;
     padding: 20px;
 }
 
@@ -99,7 +99,7 @@
 #footer
 {
     clear: left;
-    background: #ccc;
+    background: #fff;
     text-align: center;
     padding: 20px;
     height: 1%;
